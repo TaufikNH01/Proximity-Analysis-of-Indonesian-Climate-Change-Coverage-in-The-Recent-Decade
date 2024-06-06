@@ -14,13 +14,13 @@ This project is supported by the Indonesian Education Endowment Fund (LPDP) and 
 ## File Naming Convention
 Files are organized following this naming format: `[Phase Code]_[Utility]_[Entity/Objective]`. 
 Examples:
-- `DC_Crawler_Detik`: A script used in the Data Collection phase to build a crawler for Detik.
-- `DP_Classifier_Relevance`: A Data Preprocessing script for developing a classifier to determine relevance.
+- `DC_Crawler_Detik`: A script used in the Data Collection (DC) phase to build a crawler for Detik.
+- `DP_Classifier_Relevance`: A Data Preprocessing (DP) script for developing a classifier to determine relevance.
 
 ## Project Phases
 - **Data Collection (DC)**
 - **Data Preprocessing (DP)**
-- **Data Administration & Visualization (DA)**
+- **Data Analysis & Visualization (DA)**
 
 ## Usage
 Please use the code responsibly. Note that some of the crawler scripts may no longer function due to changes in the website structures of the analyzed media outlets.
